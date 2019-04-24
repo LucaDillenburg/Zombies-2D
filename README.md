@@ -1,7 +1,7 @@
 # Zombies-2D
 Jogo canvas 2D no qual o personagem tem que fugir dos zumbis.
 
-###Funcionalidades:
+### Funcionalidades:
  - vários levels
  - dinheiro
  - poderes
